@@ -1,2 +1,2 @@
-tabs: [src/main/java/Accumulate.java]
-run-button: cd /home/damner/code/src/main/java/Accumulate.java && javac src/main/java/Accumulate.java && java src/main/java/Accumulate
+tabs: [src/main/java/DoublyLinkedList.java]
+run-button: cd /home/damner/code/src/main/java/DoublyLinkedList.java && javac src/main/java/DoublyLinkedList.java && java src/main/java/DoublyLinkedList
