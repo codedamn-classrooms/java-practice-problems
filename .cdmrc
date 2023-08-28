@@ -1,2 +1,2 @@
-tabs: [src/main/java/Accumulate.java]
-run-button: cd /home/damner/code/src/main/java/Accumulate.java && javac src/main/java/Accumulate.java && java src/main/java/Accumulate
+tabs: [src/main/java/PythagoreanTriplet.java]
+run-button: cd /home/damner/code/src/main/java/PythagoreanTriplet.java && javac src/main/java/PythagoreanTriplet.java && java src/main/java/PythagoreanTriplet
