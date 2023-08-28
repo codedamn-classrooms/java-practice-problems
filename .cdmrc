@@ -1,2 +1,2 @@
-tabs: [src/main/java/Accumulate.java]
-run-button: cd /home/damner/code/src/main/java/Accumulate.java && javac src/main/java/Accumulate.java && java src/main/java/Accumulate
+tabs: [src/main/java/Series.java]
+run-button: cd /home/damner/code/src/main/java/Series.java && javac src/main/java/Series.java && java src/main/java/Series
