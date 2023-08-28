@@ -1,2 +1,2 @@
-tabs: [src/main/java/Accumulate.java]
-run-button: cd /home/damner/code/src/main/java/Accumulate.java && javac src/main/java/Accumulate.java && java src/main/java/Accumulate
+tabs: [src/main/java/RunLengthEncoding.java]
+run-button: cd /home/damner/code/src/main/java/RunLengthEncoding.java && javac src/main/java/RunLengthEncoding.java && java src/main/java/RunLengthEncoding
