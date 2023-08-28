@@ -1,2 +1,2 @@
-tabs: [src/main/java/Accumulate.java]
-run-button: cd /home/damner/code/src/main/java/Accumulate.java && javac src/main/java/Accumulate.java && java src/main/java/Accumulate
+tabs: [src/main/java/LuhnValidator.java]
+run-button: cd /home/damner/code/src/main/java/LuhnValidator.java && javac src/main/java/LuhnValidator.java && java src/main/java/LuhnValidator
