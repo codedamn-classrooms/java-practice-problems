@@ -1,2 +1,2 @@
-tabs: [src/main/java/Accumulate.java]
-run-button: cd /home/damner/code/src/main/java/Accumulate.java && javac src/main/java/Accumulate.java && java src/main/java/Accumulate
+tabs: [src/main/java/VariableLengthQuantity.java]
+run-button: cd /home/damner/code/src/main/java/VariableLengthQuantity.java && javac src/main/java/VariableLengthQuantity.java && java src/main/java/VariableLengthQuantity
