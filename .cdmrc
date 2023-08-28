@@ -1,2 +1,2 @@
-tabs: [src/main/java/Accumulate.java]
-run-button: cd /home/damner/code/src/main/java/Accumulate.java && javac src/main/java/Accumulate.java && java src/main/java/Accumulate
+tabs: [src/main/java/Octal.java]
+run-button: cd /home/damner/code/src/main/java/Octal.java && javac src/main/java/Octal.java && java src/main/java/Octal
